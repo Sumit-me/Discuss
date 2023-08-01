@@ -1,4 +1,4 @@
-# *********************** S_Discuss ****************************
+# ********************* S_Discuss *************************
 
 Hello everyone, Thanks for connecting with me. I have been working for a long time on a project. So, I want to share my project and experience with a project.
 This was a web application project. I got a new experience for the next project also. I worked for frontend, backend, and database servers. I designed a Dynamic/Responsive 
@@ -10,6 +10,6 @@ for discussing your queries like:-
  - Java
  - Django
 
-Now I will be sure to let you know about features of the website that you can use at the website.
+Now I will make sure to let you know about the features of the website that you can use at the website.
 
 
