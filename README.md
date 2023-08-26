@@ -5,4 +5,9 @@ The project made is a full stack website. It is scalable and future-proof. The s
 
 ![1](https://github.com/Sumit-me/Discuss/assets/98024836/48c6f247-d8c8-4e86-bc14-809dacfcd4d4)
 
+<br>
+<br>
+
+![2](https://github.com/Sumit-me/Discuss/assets/98024836/53842536-8e93-4046-b316-7f1437103086)
+
 
