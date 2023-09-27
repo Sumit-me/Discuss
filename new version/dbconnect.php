@@ -1,8 +1,9 @@
 <?php
-$servername = "sql311.infinityfree.com";
-$username = "if0_34836477";
-$password = "NAVHuORIzat";
-$database = "if0_34836477_project";
+// database account details are hidden due to security purposes.
+$servername = "";
+$username = "";
+$password = "";
+$database = "";
 
 $conn = mysqli_connect($servername,$username,$password,$database);
 
