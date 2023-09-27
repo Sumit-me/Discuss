@@ -61,7 +61,9 @@
                         <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
                         <li><a class="dribbble" href="#"><i class="fa fa-dribbble"></i></a></li>
                         <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
+                        <a  href="https://github.com/Sumit-me/Discuss">Github </a>
                     </ul>
+                    
                 </div>
             </div>
         </div>

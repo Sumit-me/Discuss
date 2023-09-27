@@ -46,7 +46,7 @@
                         </h2>
                     </div>
                     <p> &nbsp;</p>
-                    <form class="form-card-form" action="/phpt/forum_project/signupheader.php" method="post">
+                    <form class="form-card-form" action="signupheader.php" method="post">
 
 
                         <!-- <div class="form-input">

@@ -78,7 +78,7 @@ include 'forget_password.php';
                         </h2>
                     </div>
                     <p> &nbsp;</p>
-                    <form class="form-card-form" action="/phpt/forum_project/loginheader.php" method="post">
+                    <form class="form-card-form" action="/loginheader.php" method="post">
                         <!-- <div class="form-input">
                             <input type="text" class="form-input-field" value="Alexander Parkinson" required/>
                             <label class="form-input-label">Full name</label>
